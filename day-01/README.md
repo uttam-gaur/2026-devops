@@ -16,4 +16,4 @@ CI/CD,AWS Cloud,Kubernetes
 
 -on weekdays - 2-3 hrs 
 
-<img src="screenshots/1.jpg" width="800"/>
+<img src="1.jpg" width="800"/>
